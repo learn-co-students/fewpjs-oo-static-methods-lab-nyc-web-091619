@@ -1,3 +1,5 @@
+// import { ENGINE_METHOD_RAND } from "constants"
+
 describe( "Formatter", () => {
   describe( "capitalize", () => {
     it( "is a static method", () => {
